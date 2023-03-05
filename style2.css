@@ -1,0 +1,39 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.button{
+    padding:20px;
+    margin:0 3px;
+    border:2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.row{
+    margin:8px 0;
+}
+.row input{
+    margin: 0;
+    padding: 8px 32px;
+    border:2px solid black;
+    border-radius: 9px;
+    font-size: 20px;
+}
+.center{
+    text-align: center;
+}
+.auto{
+    margin: auto;
+}
+
+.dis-flex{
+    display: flex;
+
+}
+.flex-dir-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
